@@ -1,0 +1,114 @@
+#EXTM3U x-tvg-url="http://twobrotherss.tk:8000/xmltvmin.php?username=21bojanWaap&password=ppTgeJPA8ymwT8v"
+#EXTINF:-1 tvg-id="" tvg-name="== HRVATSKA ==" tvg-logo="http://titaniptv.com/epg/logo/Hrvatska.png" group-title="HRVATSKA / CROATIA",== HRVATSKA ==
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/4721.ts
+#EXTINF:-1 tvg-id="2903227873" tvg-name="HRT 1 HD" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/7873.ts
+#EXTINF:-1 tvg-id="29032215298" tvg-name="HRT 1 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD (L2)
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/15298.ts
+#EXTINF:-1 tvg-id="29032221640" tvg-name="HRT 1 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/100.hr.png" group-title="HRVATSKA / CROATIA",HRT 1 HD (hevc)
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21640.ts
+#EXTINF:-1 tvg-id="290322103" tvg-name="HRT 2" tvg-logo="https://twobrothers1.com:8443/images/d66f3ed717b48fe9573d77d086f93242.png" group-title="HRVATSKA / CROATIA",HRT 2
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/103.ts
+#EXTINF:-1 tvg-id="290322106" tvg-name="HRT 2 HD" tvg-logo="https://twobrothers1.com:8443/images/d66f3ed717b48fe9573d77d086f93242.png" group-title="HRVATSKA / CROATIA",HRT 2 HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/106.ts
+#EXTINF:-1 tvg-id="29032210931" tvg-name="HRT 2 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD (L2)
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/10931.ts
+#EXTINF:-1 tvg-id="290322114" tvg-name="HRT 2 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/101.hr.png" group-title="HRVATSKA / CROATIA",HRT 2 HD (hevc)
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/114.ts
+#EXTINF:-1 tvg-id="2903225800" tvg-name="HRT 3 HD" tvg-logo="http://logo.smart-iptvpro.info/102.hr.png" group-title="HRVATSKA / CROATIA",HRT 3 HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/5800.ts
+#EXTINF:-1 tvg-id="29032221642" tvg-name="HRT 3 HD (hevc)" tvg-logo="https://twobrothers1.com:8443/images/bb22402b402d0944146db818c2d87da2.png" group-title="HRVATSKA / CROATIA",HRT 3 HD (hevc)
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21642.ts
+#EXTINF:-1 tvg-id="29032213739" tvg-name="HRT 4 HD" tvg-logo="http://logo.smart-iptvpro.info/103.hr.png" group-title="HRVATSKA / CROATIA",HRT 4 HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13739.ts
+#EXTINF:-1 tvg-id="29032221643" tvg-name="HRT 4 HD (hevc)" tvg-logo="http://logo.smart-iptvpro.info/103.hr.png" group-title="HRVATSKA / CROATIA",HRT 4 HD (hevc)
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21643.ts
+#EXTINF:-1 tvg-id="29032210695" tvg-name="HRT INT." tvg-logo="https://twobrothers1.com:8443/images/c3b6ead3250b7da6ce36c2c5f1d3c59f.png" group-title="HRVATSKA / CROATIA",HRT INT.
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/10695.ts
+#EXTINF:-1 tvg-id="290322189" tvg-name="N1 HR" tvg-logo="http://logo.smart-iptvpro.info/104.hr.png" group-title="HRVATSKA / CROATIA",N1 HR
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/189.ts
+#EXTINF:-1 tvg-id="290322190" tvg-name="N1 HR L2" tvg-logo="https://twobrothers1.com:8443/images/1114e7a182e2606d21279ac7946b6920.png" group-title="HRVATSKA / CROATIA",N1 HR L2
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/190.ts
+#EXTINF:-1 tvg-id="290322180" tvg-name="NOVA TV" tvg-logo="https://twobrothers1.com:8443/images/add40080f55a2c74cca0a6b09e7b469e.png" group-title="HRVATSKA / CROATIA",NOVA TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/180.ts
+#EXTINF:-1 tvg-id="29032226433" tvg-name="SBTV" tvg-logo="https://twobrothers1.com:8443/images/a900f598f3c6989a75bfb38509866018.png" group-title="HRVATSKA / CROATIA",SBTV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/26433.ts
+#EXTINF:-1 tvg-id="2903225801" tvg-name="SLAVONSKA TV" tvg-logo="https://twobrothers1.com:8443/images/4ae6cc35ab7ee37b5c7970e0fbcc9725.png" group-title="HRVATSKA / CROATIA",SLAVONSKA TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/5801.ts
+#EXTINF:-1 tvg-id="2903226010" tvg-name="PLAVA VINKOVACKA TV" tvg-logo="https://twobrothers1.com:8443/images/7e9ae791f06115261808680414d78742.png" group-title="HRVATSKA / CROATIA",PLAVA VINKOVACKA TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/6010.ts
+#EXTINF:-1 tvg-id="2903226011" tvg-name="PLAVA TELEVIZIJA" tvg-logo="https://twobrothers1.com:8443/images/58b1d4fea987dac69094024a072bb32e.png" group-title="HRVATSKA / CROATIA",PLAVA TELEVIZIJA
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/6011.ts
+#EXTINF:-1 tvg-id="29032221622" tvg-name="VTV" tvg-logo="https://twobrothers1.com:8443/images/0fc4529e5070c09542860d80ac5091fc.png" group-title="HRVATSKA / CROATIA",VTV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21622.ts
+#EXTINF:-1 tvg-id="2903225819" tvg-name="RTV BANOVINA" tvg-logo="http://logo.smart-iptvpro.info/121.hr.png" group-title="HRVATSKA / CROATIA",RTV BANOVINA
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/5819.ts
+#EXTINF:-1 tvg-id="29032214" tvg-name="PRIGORSKA TV" tvg-logo="https://twobrothers1.com:8443/images/84995f39eadfc69cc72c69fdc451ddad.png" group-title="HRVATSKA / CROATIA",PRIGORSKA TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/14.ts
+#EXTINF:-1 tvg-id="29032219744" tvg-name="KLASIK TV" tvg-logo="https://twobrothers1.com:8443/images/1fbedbb50ae1327d23faf6189aa51492.png" group-title="HRVATSKA / CROATIA",KLASIK TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/19744.ts
+#EXTINF:-1 tvg-id="29032221623" tvg-name="ZDRAVA TV" tvg-logo="http://logo.smart-iptvpro.info/123.hr.png" group-title="HRVATSKA / CROATIA",ZDRAVA TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21623.ts
+#EXTINF:-1 tvg-id="29032210899" tvg-name="POLJOPRIVREDNA TV" tvg-logo="https://twobrothers1.com:8443/images/257a0032ef1e392faebfb302b882c9c0.png" group-title="HRVATSKA / CROATIA",POLJOPRIVREDNA TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/10899.ts
+#EXTINF:-1 tvg-id="29032232458" tvg-name="Diadora TV" tvg-logo="https://twobrothers1.com:8443/images/35ebe4173da8bca005411bbcd09d8c22.png" group-title="HRVATSKA / CROATIA",Diadora TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/32458.ts
+#EXTINF:-1 tvg-id="2903227877" tvg-name="LAUDATO TV" tvg-logo="https://twobrothers1.com:8443/images/3e06f2778d41ec66cf357f7389a39d1a.png" group-title="HRVATSKA / CROATIA",LAUDATO TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/7877.ts
+#EXTINF:-1 tvg-id="29032219885" tvg-name="OTV" tvg-logo="http://logo.smart-iptvpro.info/126.hr.png" group-title="HRVATSKA / CROATIA",OTV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/19885.ts
+#EXTINF:-1 tvg-id="2903227883" tvg-name="JADRAN TV" tvg-logo="https://twobrothers1.com:8443/images/e2b880b47069437df17cacda6a78fa70.png" group-title="HRVATSKA / CROATIA",JADRAN TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/7883.ts
+#EXTINF:-1 tvg-id="29032221880" tvg-name="TV NOVA PULA HD" tvg-logo="https://twobrothers1.com:8443/images/87b97bb28bc6e91cc7f120d349907060.png" group-title="HRVATSKA / CROATIA",TV NOVA PULA HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21880.ts
+#EXTINF:-1 tvg-id="2903227884" tvg-name="KANAL RI" tvg-logo="" group-title="HRVATSKA / CROATIA",KANAL RI
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/7884.ts
+#EXTINF:-1 tvg-id="29032226617" tvg-name="TV SIBENIK" tvg-logo="https://twobrothers1.com:8443/images/15003d3cba174e97b38b80dbe63a20ca.png" group-title="HRVATSKA / CROATIA",TV SIBENIK
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/26617.ts
+#EXTINF:-1 tvg-id="29032220216" tvg-name="TV DUBROVNIK" tvg-logo="https://twobrothers1.com:8443/images/e730ce8b599e2d3dcef74ec6a9a69620.png" group-title="HRVATSKA / CROATIA",TV DUBROVNIK
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/20216.ts
+#EXTINF:-1 tvg-id="2903224722" tvg-name="LIBERTAS TV" tvg-logo="http://logo.smart-iptvpro.info/131.hr.png" group-title="HRVATSKA / CROATIA",LIBERTAS TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/4722.ts
+#EXTINF:-1 tvg-id="29032221183" tvg-name="AURORA TV" tvg-logo="http://logo.smart-iptvpro.info/132.hr.png" group-title="HRVATSKA / CROATIA",AURORA TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21183.ts
+#EXTINF:-1 tvg-id="29032220709" tvg-name="TREND TV" tvg-logo="https://twobrothers1.com:8443/images/95247b12f73e2acf22933705f9f4bc1d.png" group-title="HRVATSKA / CROATIA",TREND TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/20709.ts
+#EXTINF:-1 tvg-id="29032227375" tvg-name="CROTV HD" tvg-logo="https://scontent.fsin8-1.fna.fbcdn.net/v/t1.6435-9/121903779_1270499616660954_2124849590922705203_n.png?_nc_cat=111&ccb=1-3&_nc_sid=973b4a&_nc_ohc=gKMwp5JF_64AX86ZAlD&_nc_ht=scontent.fsin8-1.fna&oh=7ee620be048a947b3e9c6ac6c829c8b9&oe=60AFD175" group-title="HRVATSKA / CROATIA",CROTV HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/27375.ts
+#EXTINF:-1 tvg-id="29032232656" tvg-name="UNA TV HR" tvg-logo="https://twobrothers1.com:8443/images/b24a161d96bb59286de89ff4f5ec7f06.jpg" group-title="HRVATSKA / CROATIA",UNA TV HR
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/32656.ts
+#EXTINF:-1 tvg-id="29032234032" tvg-name="TV ZAPAD" tvg-logo="https://twobrothers1.com:8443/images/cca7ba29e363f66d0862c08dbf762d11.png" group-title="HRVATSKA / CROATIA",TV ZAPAD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/34032.ts
+#EXTINF:-1 tvg-id="" tvg-name="== BOSNA I HERCEGOVINA ==" tvg-logo="http://titaniptv.com/epg/logo/Bosna.png" group-title="BOSNA I HERCEGOVINA ",== BOSNA I HERCEGOVINA ==
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/4731.ts
+#EXTINF:-1 tvg-id="29032213898" tvg-name="BHT 1" tvg-logo="https://twobrothers1.com:8443/images/b727e825154de161bc1a87439c8aa49e.png" group-title="BOSNA I HERCEGOVINA ",BHT 1
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13898.ts
+#EXTINF:-1 tvg-id="29032219697" tvg-name="BHT 1 HD (L2)" tvg-logo="http://logo.smart-iptvpro.info/100.ba.png" group-title="BOSNA I HERCEGOVINA ",BHT 1 HD (L2)
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/19697.ts
+#EXTINF:-1 tvg-id="29032213899" tvg-name="FTV" tvg-logo="https://twobrothers1.com:8443/images/77e006dd06541b7a2ea10fe2f0e9f5f0.png" group-title="BOSNA I HERCEGOVINA ",FTV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13899.ts
+#EXTINF:-1 tvg-id="29032213897" tvg-name="FTV L2" tvg-logo="https://twobrothers1.com:8443/images/77e006dd06541b7a2ea10fe2f0e9f5f0.png" group-title="BOSNA I HERCEGOVINA ",FTV L2
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13897.ts
+#EXTINF:-1 tvg-id="29032213906" tvg-name="HAYAT HD" tvg-logo="https://twobrothers1.com:8443/images/262d0cc15f07dac444135647a5f25a98.png" group-title="BOSNA I HERCEGOVINA ",HAYAT HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13906.ts
+#EXTINF:-1 tvg-id="29032213907" tvg-name="HAYAT PLUS" tvg-logo="https://twobrothers1.com:8443/images/ff7735e44f8aec6ae8a81db238717f1b.png" group-title="BOSNA I HERCEGOVINA ",HAYAT PLUS
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13907.ts
+#EXTINF:-1 tvg-id="29032213900" tvg-name="TK" tvg-logo="http://logo.smart-iptvpro.info/104.ba.png" group-title="BOSNA I HERCEGOVINA ",TK
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13900.ts
+#EXTINF:-1 tvg-id="29032213901" tvg-name="OBN" tvg-logo="https://twobrothers1.com:8443/images/e405d312f28a6dd1e700f55c24a14a93.png" group-title="BOSNA I HERCEGOVINA ",OBN
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13901.ts
+#EXTINF:-1 tvg-id="29032220330" tvg-name="OBN L2" tvg-logo="https://twobrothers1.com:8443/images/e405d312f28a6dd1e700f55c24a14a93.png" group-title="BOSNA I HERCEGOVINA ",OBN L2
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/20330.ts
+#EXTINF:-1 tvg-id="29032213902" tvg-name="FACE TV" tvg-logo="http://logo.smart-iptvpro.info/106.ba.png" group-title="BOSNA I HERCEGOVINA ",FACE TV
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13902.ts
+#EXTINF:-1 tvg-id="29032221120" tvg-name="FACE TV HD" tvg-logo="https://twobrothers1.com:8443/images/15981550b6621d68d1ea9cad099313ec.png" group-title="BOSNA I HERCEGOVINA ",FACE TV HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/21120.ts
+#EXTINF:-1 tvg-id="29032213903" tvg-name="O KANAL" tvg-logo="https://twobrothers1.com:8443/images/86e641ed1ae7f343ec15a2f2dd9f992e.png" group-title="BOSNA I HERCEGOVINA ",O KANAL
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/13903.ts
+#EXTINF:-1 tvg-id="29032233866" tvg-name="PRVA 1 BH" tvg-logo="http://www.bhtelecom.ba/fileadmin/eglasnik/images/br19/Jasmin.jpg" group-title="BOSNA I HERCEGOVINA ",PRVA 1 BH
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/33866.ts
+#EXTINF:-1 tvg-id="290322183" tvg-name="NOVA BH" tvg-logo="https://twobrothers1.com:8443/images/99a017751cd90f8b1cdbfaa4ef334c80.png" group-title="BOSNA I HERCEGOVINA ",NOVA BH
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/183.ts
+#EXTINF:-1 tvg-id="290322184" tvg-name="NOVA BH HD" tvg-logo="https://twobrothers1.com:8443/images/99a017751cd90f8b1cdbfaa4ef334c80.png" group-title="BOSNA I HERCEGOVINA ",NOVA BH HD
+http://twobrotherss.tk:8000/live/21bojanWaap/ppTgeJPA8ymwT8v/184.ts
+#EXTINF:-1 tvg-id="290322185" tvg-name="NOVA M" tvg-logo="https://twobrothers1.com:8443/images/0b578b8f8f712388e5d966f9b15d3341.png" group-title="BOSNA I HERCEGOVINA ",NOVA M
